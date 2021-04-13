@@ -1,0 +1,3 @@
+1. Filter fixed orient and config
+2. Train fixed, Test variations
+3. Train Variations Test Fixed
